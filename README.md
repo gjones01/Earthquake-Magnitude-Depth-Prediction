@@ -22,3 +22,6 @@ DATASET INFO:
 Important NOTE: To start exploring the project, begin with the script titled "EarthquakeTensor.ipynb." The first script involves the use of TensorFlow to 
 to create a neural network predicting earthquake magnitudes. The following script titled "EarthquakePyTorch.ipynb" involves a neural network in PyTorch
 to predict earthquake depth ranges. 
+
+In the folder titled "data" there are visualizations, two of which are .twb files. These are interactive Tableau files that allow you to interact and see
+information about each data point.
