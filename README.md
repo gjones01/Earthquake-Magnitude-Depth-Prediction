@@ -6,7 +6,7 @@ PROJECT OBJECTIVE:
 - Predict earthquake deoth ranges
 - Showcase basic proficiency with Feedforward Neural Networks in TensorFlow and PyTorch.
 - Visualize insights with Tableau, Matplotlib and Seaborn.
-- 
+  
 TOOLS:
 - Language: Python (Jupyter Notebook)
 - Framework: TensorFlow & PyTorch
