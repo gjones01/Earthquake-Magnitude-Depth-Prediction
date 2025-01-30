@@ -17,7 +17,7 @@ TOOLS:
 DATASET INFO:
 
 - The dataset contains global earthquake data starting in 1976 and ending in 2024.
-- Each recorded earthquake contains information such as latitude, longitude, magnitude, depth, depth error and rms and dmin to name a few.
+- Each recorded earthquake contains information such as latitude, longitude, magnitude, depth, depth error, rms and dmin to name a few.
 
 Important NOTE: 
 
