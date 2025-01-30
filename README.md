@@ -24,4 +24,4 @@ to create a neural network predicting earthquake magnitudes. The following scrip
 to predict earthquake depth ranges. 
 
 In the folder titled "data" there are visualizations, two of which are .twb files. These are interactive Tableau files that allow you to interact and see
-information about each data point.
+information about each data point. 
