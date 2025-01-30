@@ -3,7 +3,7 @@ Predicting Earthquake Magnitudes & Depths
 PROJECT OBJECTIVE:
 
 - Predict earthquake magnitudes
-- Predict earthquake deoth ranges
+- Predict earthquake depth ranges
 - Showcase basic proficiency with Feedforward Neural Networks in TensorFlow and PyTorch.
 - Visualize insights with Tableau, Matplotlib and Seaborn.
   
