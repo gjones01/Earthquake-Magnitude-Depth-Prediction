@@ -25,6 +25,6 @@ Important NOTE:
 to create a neural network predicting earthquake magnitudes. The following script titled "EarthquakePyTorch.ipynb" involves a neural network in PyTorch
 to predict earthquake depth ranges. 
 
-- In the folder titled "data" there are visualizations, two of which are .twb files. These are interactive Tableau files that allow you to interact and see information about each data point. 
+- In the folder titled "data" there are visualizations and raw csv files, both raw and cleaned. Two of the visualizations are .twb files. These are Tableau files that allow you to interact and see information about each data point. 
 
 - A folder titled "Outputs" includes photos of the respective model results.
