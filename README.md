@@ -8,7 +8,7 @@ PROJECT OBJECTIVE:
 - Visualize insights with Tableau, Matplotlib and Seaborn.
 - 
 TOOLS:
-Language: Python
+Language: Python (Jupyter Notebook)
 Framework: TensorFlow & PyTorch
 Machine Learning Models: Feedforward Neural Network
 Visualization: Matplotlib, Seaborn & Tableau
